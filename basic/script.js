@@ -17,9 +17,9 @@ accCity = "Gonda086"
 
 // --------------------------------------
 // data type
-let name = "part"
-let age = 80
-let isloggedin = false
+// let name = "part"
+// let age = 80
+// let isloggedin = false
 // null --> standalone value
 // undefined --> var decleared but nothing assigned
 // symbol --> unique
@@ -29,3 +29,4 @@ let isloggedin = false
 // console.log(typeof 'hiii') //string
 // console.log(typeof null) //object
 
+// -------------------------------------
